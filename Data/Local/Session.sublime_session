@@ -1,0 +1,1595 @@
+{
+	"folder_history":
+	[
+		"/E/NCS_TEST/ncs/ncsfrt",
+		"/E/NCS_TEST",
+		"/E/NCS_MIX"
+	],
+	"last_version": 3126,
+	"last_window_id": 35,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 982.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fetch",
+						"fetchall\t(ncs_update.py)"
+					],
+					[
+						"cur",
+						"cursors"
+					],
+					[
+						"curso",
+						"cursor"
+					],
+					[
+						"MySQL",
+						"MySQLdb"
+					],
+					[
+						"conn",
+						"connect\t(ncs_update.py)"
+					],
+					[
+						"fail",
+						"failed_num"
+					],
+					[
+						"down_u",
+						"down_url_3"
+					],
+					[
+						"dow",
+						"down_url_2"
+					],
+					[
+						"second",
+						"secondary_id"
+					],
+					[
+						"down",
+						"down_url_3"
+					],
+					[
+						"down_",
+						"down_url_1"
+					],
+					[
+						"u_int8_",
+						"u_int8_t"
+					],
+					[
+						"GetN",
+						"GetNameByType"
+					],
+					[
+						"system",
+						"system(\"pkill"
+					],
+					[
+						"p_file_typ",
+						"p_file_type_end"
+					],
+					[
+						"p_file",
+						"p_file_name_start"
+					],
+					[
+						"arr",
+						"arr_file_name"
+					],
+					[
+						"p_down",
+						"p_down_url_1"
+					],
+					[
+						"p_filetyp",
+						"p_filetype_start"
+					],
+					[
+						"mem",
+						"memcpy\t(ncs_plugin_tudou.c)"
+					],
+					[
+						"filen",
+						"filename_len"
+					],
+					[
+						"filetype",
+						"filetype_len"
+					],
+					[
+						"p_fi",
+						"p_filetype_end"
+					],
+					[
+						"p_filety",
+						"p_filetype_start"
+					],
+					[
+						"p_filena",
+						"p_filename_end"
+					],
+					[
+						"u_in",
+						"u_int8_t"
+					],
+					[
+						"domai",
+						"domain_value_len"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "find",
+				"selected_items":
+				[
+					[
+						"find",
+						"FindKeyConflicts: All Key Maps to Quick Panel"
+					],
+					[
+						"find ",
+						"FindKeyConflicts: All Key Maps to Quick Panel"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"color",
+						"Color Picker"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"colorpicker",
+						"Color Picker: Insert Color"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"Cscope: ",
+						"Cscope: Look up symbol"
+					],
+					[
+						"ctags",
+						"CTags: Show Symbols (file)"
+					],
+					[
+						"packa in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"csco",
+						"Cscope: Find file"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"pacage",
+						"Package Control: Install Package"
+					],
+					[
+						"sub pytho",
+						"SublimeREPL: Python"
+					],
+					[
+						"sub re",
+						"SublimeREPL: Python - execnet"
+					],
+					[
+						"sub py",
+						"SublimeREPL: Python"
+					],
+					[
+						"sub",
+						"Sublimerge"
+					],
+					[
+						"sublimer",
+						"SublimeREPL: ABCL"
+					],
+					[
+						"pac",
+						"Package Control: List Packages"
+					],
+					[
+						"subl",
+						"Sublimerge"
+					],
+					[
+						"markdown extend",
+						"Set Syntax: Markdown Extended"
+					],
+					[
+						"set mark",
+						"Set Syntax: Markdown Extended"
+					],
+					[
+						"resou",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"filediff",
+						"FileDiffs: Menu"
+					],
+					[
+						"file",
+						"FileDiffs: Menu"
+					],
+					[
+						"filed",
+						"FileDiffs: Menu"
+					],
+					[
+						"mp",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ssm",
+						"Set Syntax: Markdown"
+					],
+					[
+						"Snippet: ",
+						"Snippet: printf …"
+					],
+					[
+						"",
+						"BracketHighlighter: Jump to Right Bracket"
+					]
+				],
+				"width": 536.0
+			},
+			"console":
+			{
+				"height": 242.0,
+				"history":
+				[
+					"cscope",
+					"ls",
+					"pwd",
+					"cd e:",
+					"e:",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/CloudCache/95FB43DA8E72939337641C80FF99E0F8F60272DA/1/##PROGRAM_FILES##/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/E/NCS_MIX/ncsstat/nginx-1.8.0-ncs/ngx_http_accounting_module/README.md",
+				"/E/CloudCache/95FB43DA8E72939337641C80FF99E0F8F60272DA/1/##PROGRAM_FILES##/Sublime Text 3/Data/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/E/NCS_MIX/lib/jwsmtp-1.32.15/jwsmtp/jwsmtp/Makefile",
+				"/E/NCS_MIX/python/icheck.py",
+				"/C/Users/Administrator/Desktop/studyHtml.html",
+				"/E/CloudCache/95FB43DA8E72939337641C80FF99E0F8F60272DA/1/##PROGRAM_FILES##/Sublime Text 3/Data/Packages/FindKeyConflicts/FindKeyConflicts.sublime-settings",
+				"/E/NCS_TEST/suite/ncsfrt/ncsfrt_support_uncached.py",
+				"/E/NCS_TEST/suite/demo/demo_foo.py",
+				"/E/NCS_MIX/python/ncs_plugins_update.py",
+				"//192.168.88.104/linux_share_opt/NCS_MIX/hwaf.workspace",
+				"//192.168.88.104/linux_share_opt/NCS_MIX/hwaf.workspace.layout",
+				"/E/NCS_MIX/plugins/ncs_plugin_acfun.c",
+				"/E/NCS_MIX/plugins/ncs_plugin_qq.c",
+				"/E/NCS_MIX/plugins/ncs_plugin_sohu.c",
+				"/E/NCS_MIX/plugins/ncs_plugin_xixi.c",
+				"/E/NCS_MIX/factory/install/install-lib.sh",
+				"/E/NCS_MIX/ncsstat/nginx-1.8.0-ncs/src/mysql/configfile.c",
+				"/E/NCS_MIX/ncsfrt/ncsfrt.cbp",
+				"/E/NCS_MIX/scripts/preupdate.sh",
+				"/E/md5.c",
+				"/C/Users/11/Downloads/md5c.c",
+				"/E/NCS_MIX/NCS_MIX.sublime-project",
+				"/E/NCS_MIX/NCS_MIX.SearchResults",
+				"/E/资料&文档/python/scripts/configdmi.sh",
+				"/E/2",
+				"/E/NCS_RECOVER/scripts/tcpxtract.conf",
+				"/C/Users/11/Downloads/ADBlock_2.5.0.1016_XiaZaiBa.png",
+				"/C/Windows/system32/config/systemprofile/Desktop/statistic.py",
+				"//192.168.88.104/linux_share_opt/NCS_DEDUP/ncs_tools/flowanalyse/flowanalyse.cbp",
+				"/G/log2/ncsfrt_ori_aft.log",
+				"/C/Users/11/Desktop/coverge.sql",
+				"/G/log2/ncsfrt_0504_reduce.log",
+				"//192.168.88.104/linux_share_opt/ktest/DNSLookup.cpp",
+				"/C/Users/11/Desktop/dns-resolver-by-c.c",
+				"/C/Users/11/Desktop/ua_pattern.cpp",
+				"/E/NCS_RECOVER/scripts/update_waf_hw.sql",
+				"/E/transfer/zip_md5",
+				"/E/transfer/ncsfrt.log",
+				"/C/Users/11/Desktop/flowanalyse.log",
+				"/E/NCS_RECOVER/scripts/ncs.conf",
+				"/E/transfer/exe/机器学习基础教程_11@134625.exe",
+				"/E/Code_Backup/flowanalyse_tidy/NcsFrontSrv/Service/ncs_front_srv.c",
+				"/E/transfer/flowanalyse.log",
+				"/G/insert2mysql.py",
+				"/E/transfer/tcpxtract-1.0.1/README",
+				"/G/log2/ncsfrt_0504.log",
+				"//192.168.88.104/linux_share_opt/NCS_DEDUP/ncs_tools/flowanalyse/flowanalyse.layout",
+				"/C/Users/11/Desktop/insert2mysql.py",
+				"/G/log2/ncsfrt_reduce_aft.log",
+				"/G/log2/ncsfrt_ori_evening.log",
+				"/G/log2/ncsfrt.log",
+				"/G/log2/ncsfrt_reduce.log",
+				"/C/Users/11/Desktop/ncs3",
+				"/C/Users/11/Desktop/ncs1",
+				"/C/Users/11/Desktop/new",
+				"/C/Users/11/Desktop/ncs2",
+				"/G/ncsfrt_suffixfilter_inner.log",
+				"/G/ncsfrt_pluginfilter.log",
+				"/G/ncsfrt_requestline.log",
+				"/G/ncsfrt_suffixfilter_outer.log",
+				"/C/Users/11/Desktop/ncs1.txt",
+				"/C/Users/11/Desktop/Regus China.mht",
+				"/E/资料&文档/python/init_disk.py",
+				"/C/Users/11/Desktop/mac.c",
+				"/E/CloudCache/95FB43DA8E72939337641C80FF99E0F8F60272DA/0/##PROGRAM_FILES##/Sublime Text 3/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/E/CloudCache/95FB43DA8E72939337641C80FF99E0F8F60272DA/0/##PROGRAM_FILES##/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/E/NCS_SHENZHOU/scripts/ncs.conf",
+				"/C/Users/11/Desktop/dnsparse.c",
+				"//192.168.88.104/linux_share_workspace/ktest/CurlGetHtml.cpp",
+				"//192.168.88.104/linux_share_workspace/ktest/getHtmlByCurl.cpp",
+				"//192.168.88.104/linux_share_workspace/ktest/1.txt",
+				"/C/Users/11/Desktop/urldecode.cpp",
+				"//192.168.88.104/linux_share_workspace/ktest/sdfsfs",
+				"//192.168.88.104/linux_share_workspace/ktest/sdfs",
+				"//192.168.88.104/linux_share_workspace/ktest/1.html",
+				"//192.168.88.104/linux_share_workspace/ktest/1",
+				"//192.168.88.104/linux_share_workspace/ktest/getHtmlByWget.cpp",
+				"/E/NCS_CHANGCHUN/scripts/init_waf_hw.sql",
+				"/E/NCS_CHANGCHUN/factory/install/install-lib.sh",
+				"/E/NCS_CHANGCHUN/factory/install/install.conf",
+				"/E/NCS_CHANGCHUN/web/application/controllers/respondngnix.php",
+				"/C/Users/11/Desktop/temp.cpp",
+				"/E/NCS_CHANGCHUN/plugins/ua_rule.xml",
+				"/E/NCS_CHANGCHUN/web/application/views/respondngnix.php",
+				"//192.168.88.104/linux_share_opt/utf2ascii",
+				"/E/NCS_CHANGCHUN/scripts/mysql/my.cnf",
+				"/E/NCS_CHANGCHUN/factory/release/librelease.sh",
+				"/E/NCS_CHANGCHUN/lib/mysqllib/mysqllib.cpp",
+				"/E/CloudCache/95FB43DA8E72939337641C80FF99E0F8F60272DA/0/##PROGRAM_FILES##/Sublime Text 3/Data/Packages/User/CTags.sublime-settings",
+				"/E/NCS_CHANGCHUN/cscope.out",
+				"/E/NCS_CHANGCHUN/ncsfrt/NcsFrontSrv/LogPrintf/log_printf.c",
+				"/E/NCS_CHANGCHUN/ncsfrt/NcsFrontSrv/Pub/pub.h",
+				"/E/NCS_CHANGCHUN/ncsfrt/NcsFrontSrv/LogPrintf/log_printf.h",
+				"/E/NCS_CHANGCHUN/lib/mysqllib/mysqllib.h",
+				"/E/NCS_CHANGCHUN/python/ncs_netconfig.py",
+				"/E/NCS_CHANGCHUN/ncsfrt/NcsFrtMain.cpp",
+				"/E/NCS_CHANGCHUN/plugins/plugins.xml",
+				"//192.168.88.104/linux_share_opt/test/maptest.cpp",
+				"/E/CloudCache/95FB43DA8E72939337641C80FF99E0F8F60272DA/0/##PROGRAM_FILES##/Sublime Text 3/Data/Packages/CTags/Default.sublime-keymap",
+				"/E/CloudCache/95FB43DA8E72939337641C80FF99E0F8F60272DA/0/##PROGRAM_FILES##/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/E/NCS_CHANGCHUN/factory/preinstall/preinstall.sh",
+				"/E/NCS_CHANGCHUN/factory/install/install.sh",
+				"/E/NCS_CHANGCHUN/factory/preinstall/dhcpd.conf",
+				"/E/NCS_CHANGCHUN/ncsfrt/ncsfrt.cbp",
+				"/E/CloudCache/95FB43DA8E72939337641C80FF99E0F8F60272DA/0/##PROGRAM_FILES##/Sublime Text 3/Data/Packages/User/CscopeSublime.sublime-settings",
+				"/E/NCS_CHANGCHUN/lib/common/common.h",
+				"/E/NCS_CHANGCHUN/factory/release/README",
+				"/E/NCS_CHANGCHUN/factory/README",
+				"/E/NCS_CHANGCHUN/scripts/restore.sh",
+				"/E/CloudCache/95FB43DA8E72939337641C80FF99E0F8F60272DA/0/##PROGRAM_FILES##/Sublime Text 3/Data/Packages/CTags/CTags.sublime-settings",
+				"/C/Users/11/Desktop/test1.py",
+				"/C/Windows/System32/drivers/etc/HOSTS",
+				"/E/资料&文档/Linux_Projects/NCS/factory/preinstall/preinstall.sh",
+				"/E/资料&文档/Linux_Projects/NCS/factory/install/install-lib.sh",
+				"/E/资料&文档/Linux_Projects/NCS/factory/install/install.sh",
+				"/E/资料&文档/Linux_Projects/NCS/ncsclt/Filter/filter.c",
+				"/E/资料&文档/Linux_Projects/NCS/plugins/ncs_plugin_v1.c",
+				"/E/资料&文档/Linux_Projects/NCS/plugins/ncs_plugin_newscntv.c",
+				"/C/Users/11/Desktop/Ncs_plugin_iqiyi.c",
+				"/E/资料&文档/Linux_Projects/NCS/plugins/ncs_plugin_sohu.c",
+				"/C/Users/11/Desktop/Ncs_plugin_xiazaiba.c",
+				"/C/Users/11/Desktop/weibo.php",
+				"/E/资料&文档/Linux_Projects/NCS/plugins/ncs_plugin_115disk.c",
+				"/E/资料&文档/Linux_Projects/NCS/plugins/ncs_plugin_a360.c",
+				"/E/资料&文档/Linux_Projects/NCS/plugins/ncs_plugin_youku.c",
+				"/C/Users/11/Desktop/Ncs_plugin_tudou.c",
+				"/E/资料&文档/Linux_Projects/NCS/plugins/ncs_plugin_qq.c"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"E:\\NCS_MIX",
+					"E:\\NCS_CHANGCHUN",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"+r",
+					"db",
+					"host",
+					"passwd",
+					"get_db_info",
+					"get_task_time",
+					"make_cron_file",
+					"get_task_time",
+					"re",
+					"connect",
+					"setTimesAndLibrary",
+					"ncs_plugins_bak_file",
+					"clean_disk_id_and_clean_size_dict",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"NCS",
+					"ncs",
+					"NCS",
+					"ncs",
+					"NCS",
+					"ncs",
+					"NCS_WARN",
+					"NCS",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"NCS",
+					"ncs",
+					"NCS",
+					"ncs",
+					"NCS",
+					"ncs",
+					"NCS",
+					"ncs",
+					"NCS",
+					"Ncs",
+					"ncs",
+					"NCS",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"#",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"#",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"endif",
+					"ncs",
+					"ncs_down_record",
+					"ncs",
+					"Ncs",
+					"50M",
+					"30M",
+					"10M"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 118.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ncs_plugins_update.py",
+						"python\\ncs_plugins_update.py"
+					],
+					[
+						"fullupda",
+						"factory\\update\\fullupdate.sh"
+					],
+					[
+						"pre",
+						"scripts\\preupdate.sh"
+					],
+					[
+						"inidisk",
+						"init_disk.py"
+					],
+					[
+						"url",
+						"urldecode.cpp"
+					],
+					[
+						"get",
+						"getHtmlByWget.cpp"
+					],
+					[
+						"ua_rule",
+						"plugins\\ua_rule.xml"
+					],
+					[
+						"respondngnix.php",
+						"web\\application\\views\\respondngnix.php"
+					],
+					[
+						".xml",
+						"plugins\\plugins.xml"
+					],
+					[
+						"my.cn",
+						"scripts\\mysql\\my.cnf"
+					],
+					[
+						"librelease.sh",
+						"factory\\release\\librelease.sh"
+					],
+					[
+						"init_waf",
+						"scripts\\init_waf_hw.sql"
+					],
+					[
+						"readme",
+						"factory\\release\\README"
+					],
+					[
+						"read",
+						"factory\\README"
+					],
+					[
+						"netconfig.sh",
+						"factory\\preinstall\\netconfig.sh"
+					],
+					[
+						"mysqllib",
+						"lib\\mysqllib\\mysqllib.cpp"
+					],
+					[
+						"preinstall",
+						"factory\\preinstall\\preinstall.sh"
+					],
+					[
+						"filter.c",
+						"ncsfrt\\NcsFrontSrv\\Filter\\filter.c"
+					],
+					[
+						"http_get",
+						"ncsfrt\\NcsFrontSrv\\HttpGetParse\\http_get_parse.c"
+					],
+					[
+						"115",
+						"plugins\\ncs_plugin_115disk.c"
+					],
+					[
+						"youku",
+						"plugins\\ncs_plugin_youku.c"
+					],
+					[
+						"pluginxml",
+						"plugins\\plugins.xml"
+					],
+					[
+						"tudou",
+						"plugins\\ncs_plugin_tudou.c"
+					],
+					[
+						"sohu",
+						"plugins\\ncs_plugin_sohu.c"
+					],
+					[
+						"par",
+						"scripts/parted.sh"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"E:\\NCS_TEST\\NCS_TEST.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"get_json",
+						"get_json_write_data"
+					],
+					[
+						"",
+						"# Usage"
+					]
+				],
+				"width": 912.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 269.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1221.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fetch",
+						"fetchall\t(ncs_update.py)"
+					],
+					[
+						"cur",
+						"cursors"
+					],
+					[
+						"curso",
+						"cursor"
+					],
+					[
+						"MySQL",
+						"MySQLdb"
+					],
+					[
+						"conn",
+						"connect\t(ncs_update.py)"
+					],
+					[
+						"fail",
+						"failed_num"
+					],
+					[
+						"down_u",
+						"down_url_3"
+					],
+					[
+						"dow",
+						"down_url_2"
+					],
+					[
+						"second",
+						"secondary_id"
+					],
+					[
+						"down",
+						"down_url_3"
+					],
+					[
+						"down_",
+						"down_url_1"
+					],
+					[
+						"u_int8_",
+						"u_int8_t"
+					],
+					[
+						"GetN",
+						"GetNameByType"
+					],
+					[
+						"system",
+						"system(\"pkill"
+					],
+					[
+						"p_file_typ",
+						"p_file_type_end"
+					],
+					[
+						"p_file",
+						"p_file_name_start"
+					],
+					[
+						"arr",
+						"arr_file_name"
+					],
+					[
+						"p_down",
+						"p_down_url_1"
+					],
+					[
+						"p_filetyp",
+						"p_filetype_start"
+					],
+					[
+						"mem",
+						"memcpy\t(ncs_plugin_tudou.c)"
+					],
+					[
+						"filen",
+						"filename_len"
+					],
+					[
+						"filetype",
+						"filetype_len"
+					],
+					[
+						"p_fi",
+						"p_filetype_end"
+					],
+					[
+						"p_filety",
+						"p_filetype_start"
+					],
+					[
+						"p_filena",
+						"p_filename_end"
+					],
+					[
+						"u_in",
+						"u_int8_t"
+					],
+					[
+						"domai",
+						"domain_value_len"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "Packages/Python/Python.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "find",
+				"selected_items":
+				[
+					[
+						"find",
+						"FindKeyConflicts: All Key Maps to Quick Panel"
+					],
+					[
+						"find ",
+						"FindKeyConflicts: All Key Maps to Quick Panel"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"color",
+						"Color Picker"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"colorpicker",
+						"Color Picker: Insert Color"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"Cscope: ",
+						"Cscope: Look up symbol"
+					],
+					[
+						"ctags",
+						"CTags: Show Symbols (file)"
+					],
+					[
+						"packa in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"csco",
+						"Cscope: Find file"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"pacage",
+						"Package Control: Install Package"
+					],
+					[
+						"sub pytho",
+						"SublimeREPL: Python"
+					],
+					[
+						"sub re",
+						"SublimeREPL: Python - execnet"
+					],
+					[
+						"sub py",
+						"SublimeREPL: Python"
+					],
+					[
+						"sub",
+						"Sublimerge"
+					],
+					[
+						"sublimer",
+						"SublimeREPL: ABCL"
+					],
+					[
+						"pac",
+						"Package Control: List Packages"
+					],
+					[
+						"subl",
+						"Sublimerge"
+					],
+					[
+						"markdown extend",
+						"Set Syntax: Markdown Extended"
+					],
+					[
+						"set mark",
+						"Set Syntax: Markdown Extended"
+					],
+					[
+						"resou",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"filediff",
+						"FileDiffs: Menu"
+					],
+					[
+						"file",
+						"FileDiffs: Menu"
+					],
+					[
+						"filed",
+						"FileDiffs: Menu"
+					],
+					[
+						"mp",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"ssm",
+						"Set Syntax: Markdown"
+					],
+					[
+						"Snippet: ",
+						"Snippet: printf …"
+					],
+					[
+						"",
+						"BracketHighlighter: Jump to Right Bracket"
+					]
+				],
+				"width": 536.0
+			},
+			"console":
+			{
+				"height": 242.0,
+				"history":
+				[
+					"cscope",
+					"ls",
+					"pwd",
+					"cd e:",
+					"e:",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/NCS_MIX/python/parsers/imageParser.py",
+				"/E/NCS_MIX/python/ncs_portals.py",
+				"/E/NCS_MIX/lib/fcgi-2.4.0/examples/authorizer.mak",
+				"/E/NCS_MIX/python/ncs_update.py",
+				"/E/NCS_TEST/autotest.py",
+				"/E/CloudCache/95FB43DA8E72939337641C80FF99E0F8F60272DA/1/##PROGRAM_FILES##/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/E/NCS_MIX/ncsstat/nginx-1.8.0-ncs/ngx_http_accounting_module/README.md",
+				"/E/CloudCache/95FB43DA8E72939337641C80FF99E0F8F60272DA/1/##PROGRAM_FILES##/Sublime Text 3/Data/Packages/Emmet/Default (Windows).sublime-keymap",
+				"/E/NCS_MIX/lib/jwsmtp-1.32.15/jwsmtp/jwsmtp/Makefile",
+				"/E/NCS_MIX/python/icheck.py",
+				"/C/Users/Administrator/Desktop/studyHtml.html",
+				"/E/CloudCache/95FB43DA8E72939337641C80FF99E0F8F60272DA/1/##PROGRAM_FILES##/Sublime Text 3/Data/Packages/FindKeyConflicts/FindKeyConflicts.sublime-settings",
+				"/E/NCS_TEST/suite/ncsfrt/ncsfrt_support_uncached.py",
+				"/E/NCS_TEST/suite/demo/demo_foo.py",
+				"/E/NCS_MIX/python/ncs_plugins_update.py",
+				"//192.168.88.104/linux_share_opt/NCS_MIX/hwaf.workspace",
+				"//192.168.88.104/linux_share_opt/NCS_MIX/hwaf.workspace.layout",
+				"/E/NCS_MIX/plugins/ncs_plugin_acfun.c",
+				"/E/NCS_MIX/plugins/ncs_plugin_qq.c",
+				"/E/NCS_MIX/plugins/ncs_plugin_sohu.c",
+				"/E/NCS_MIX/plugins/ncs_plugin_xixi.c",
+				"/E/NCS_MIX/factory/install/install-lib.sh",
+				"/E/NCS_MIX/ncsstat/nginx-1.8.0-ncs/src/mysql/configfile.c",
+				"/E/NCS_MIX/ncsfrt/ncsfrt.cbp",
+				"/E/NCS_MIX/scripts/preupdate.sh",
+				"/E/md5.c",
+				"/C/Users/11/Downloads/md5c.c",
+				"/E/NCS_MIX/NCS_MIX.sublime-project",
+				"/E/NCS_MIX/NCS_MIX.SearchResults",
+				"/E/资料&文档/python/scripts/configdmi.sh",
+				"/E/2",
+				"/E/NCS_RECOVER/scripts/tcpxtract.conf",
+				"/C/Users/11/Downloads/ADBlock_2.5.0.1016_XiaZaiBa.png",
+				"/C/Windows/system32/config/systemprofile/Desktop/statistic.py",
+				"//192.168.88.104/linux_share_opt/NCS_DEDUP/ncs_tools/flowanalyse/flowanalyse.cbp",
+				"/G/log2/ncsfrt_ori_aft.log",
+				"/C/Users/11/Desktop/coverge.sql",
+				"/G/log2/ncsfrt_0504_reduce.log",
+				"//192.168.88.104/linux_share_opt/ktest/DNSLookup.cpp",
+				"/C/Users/11/Desktop/dns-resolver-by-c.c",
+				"/C/Users/11/Desktop/ua_pattern.cpp",
+				"/E/NCS_RECOVER/scripts/update_waf_hw.sql",
+				"/E/transfer/zip_md5",
+				"/E/transfer/ncsfrt.log",
+				"/C/Users/11/Desktop/flowanalyse.log",
+				"/E/NCS_RECOVER/scripts/ncs.conf",
+				"/E/transfer/exe/机器学习基础教程_11@134625.exe",
+				"/E/Code_Backup/flowanalyse_tidy/NcsFrontSrv/Service/ncs_front_srv.c",
+				"/E/transfer/flowanalyse.log",
+				"/G/insert2mysql.py",
+				"/E/transfer/tcpxtract-1.0.1/README",
+				"/G/log2/ncsfrt_0504.log",
+				"//192.168.88.104/linux_share_opt/NCS_DEDUP/ncs_tools/flowanalyse/flowanalyse.layout",
+				"/C/Users/11/Desktop/insert2mysql.py",
+				"/G/log2/ncsfrt_reduce_aft.log",
+				"/G/log2/ncsfrt_ori_evening.log",
+				"/G/log2/ncsfrt.log",
+				"/G/log2/ncsfrt_reduce.log",
+				"/C/Users/11/Desktop/ncs3",
+				"/C/Users/11/Desktop/ncs1",
+				"/C/Users/11/Desktop/new",
+				"/C/Users/11/Desktop/ncs2",
+				"/G/ncsfrt_suffixfilter_inner.log",
+				"/G/ncsfrt_pluginfilter.log",
+				"/G/ncsfrt_requestline.log",
+				"/G/ncsfrt_suffixfilter_outer.log",
+				"/C/Users/11/Desktop/ncs1.txt",
+				"/C/Users/11/Desktop/Regus China.mht",
+				"/E/资料&文档/python/init_disk.py",
+				"/C/Users/11/Desktop/mac.c",
+				"/E/CloudCache/95FB43DA8E72939337641C80FF99E0F8F60272DA/0/##PROGRAM_FILES##/Sublime Text 3/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/E/CloudCache/95FB43DA8E72939337641C80FF99E0F8F60272DA/0/##PROGRAM_FILES##/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/E/NCS_SHENZHOU/scripts/ncs.conf",
+				"/C/Users/11/Desktop/dnsparse.c",
+				"//192.168.88.104/linux_share_workspace/ktest/CurlGetHtml.cpp",
+				"//192.168.88.104/linux_share_workspace/ktest/getHtmlByCurl.cpp",
+				"//192.168.88.104/linux_share_workspace/ktest/1.txt",
+				"/C/Users/11/Desktop/urldecode.cpp",
+				"//192.168.88.104/linux_share_workspace/ktest/sdfsfs",
+				"//192.168.88.104/linux_share_workspace/ktest/sdfs",
+				"//192.168.88.104/linux_share_workspace/ktest/1.html",
+				"//192.168.88.104/linux_share_workspace/ktest/1",
+				"//192.168.88.104/linux_share_workspace/ktest/getHtmlByWget.cpp",
+				"/E/NCS_CHANGCHUN/scripts/init_waf_hw.sql",
+				"/E/NCS_CHANGCHUN/factory/install/install-lib.sh",
+				"/E/NCS_CHANGCHUN/factory/install/install.conf",
+				"/E/NCS_CHANGCHUN/web/application/controllers/respondngnix.php",
+				"/C/Users/11/Desktop/temp.cpp",
+				"/E/NCS_CHANGCHUN/plugins/ua_rule.xml",
+				"/E/NCS_CHANGCHUN/web/application/views/respondngnix.php",
+				"//192.168.88.104/linux_share_opt/utf2ascii",
+				"/E/NCS_CHANGCHUN/scripts/mysql/my.cnf",
+				"/E/NCS_CHANGCHUN/factory/release/librelease.sh",
+				"/E/NCS_CHANGCHUN/lib/mysqllib/mysqllib.cpp",
+				"/E/CloudCache/95FB43DA8E72939337641C80FF99E0F8F60272DA/0/##PROGRAM_FILES##/Sublime Text 3/Data/Packages/User/CTags.sublime-settings",
+				"/E/NCS_CHANGCHUN/cscope.out",
+				"/E/NCS_CHANGCHUN/ncsfrt/NcsFrontSrv/LogPrintf/log_printf.c",
+				"/E/NCS_CHANGCHUN/ncsfrt/NcsFrontSrv/Pub/pub.h",
+				"/E/NCS_CHANGCHUN/ncsfrt/NcsFrontSrv/LogPrintf/log_printf.h",
+				"/E/NCS_CHANGCHUN/lib/mysqllib/mysqllib.h",
+				"/E/NCS_CHANGCHUN/python/ncs_netconfig.py",
+				"/E/NCS_CHANGCHUN/ncsfrt/NcsFrtMain.cpp",
+				"/E/NCS_CHANGCHUN/plugins/plugins.xml",
+				"//192.168.88.104/linux_share_opt/test/maptest.cpp",
+				"/E/CloudCache/95FB43DA8E72939337641C80FF99E0F8F60272DA/0/##PROGRAM_FILES##/Sublime Text 3/Data/Packages/CTags/Default.sublime-keymap",
+				"/E/CloudCache/95FB43DA8E72939337641C80FF99E0F8F60272DA/0/##PROGRAM_FILES##/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/E/NCS_CHANGCHUN/factory/preinstall/preinstall.sh",
+				"/E/NCS_CHANGCHUN/factory/install/install.sh",
+				"/E/NCS_CHANGCHUN/factory/preinstall/dhcpd.conf",
+				"/E/NCS_CHANGCHUN/ncsfrt/ncsfrt.cbp",
+				"/E/CloudCache/95FB43DA8E72939337641C80FF99E0F8F60272DA/0/##PROGRAM_FILES##/Sublime Text 3/Data/Packages/User/CscopeSublime.sublime-settings",
+				"/E/NCS_CHANGCHUN/lib/common/common.h",
+				"/E/NCS_CHANGCHUN/factory/release/README",
+				"/E/NCS_CHANGCHUN/factory/README",
+				"/E/NCS_CHANGCHUN/scripts/restore.sh",
+				"/E/CloudCache/95FB43DA8E72939337641C80FF99E0F8F60272DA/0/##PROGRAM_FILES##/Sublime Text 3/Data/Packages/CTags/CTags.sublime-settings",
+				"/C/Users/11/Desktop/test1.py",
+				"/C/Windows/System32/drivers/etc/HOSTS",
+				"/E/资料&文档/Linux_Projects/NCS/factory/preinstall/preinstall.sh",
+				"/E/资料&文档/Linux_Projects/NCS/factory/install/install-lib.sh",
+				"/E/资料&文档/Linux_Projects/NCS/factory/install/install.sh",
+				"/E/资料&文档/Linux_Projects/NCS/ncsclt/Filter/filter.c",
+				"/E/资料&文档/Linux_Projects/NCS/plugins/ncs_plugin_v1.c",
+				"/E/资料&文档/Linux_Projects/NCS/plugins/ncs_plugin_newscntv.c",
+				"/C/Users/11/Desktop/Ncs_plugin_iqiyi.c",
+				"/E/资料&文档/Linux_Projects/NCS/plugins/ncs_plugin_sohu.c",
+				"/C/Users/11/Desktop/Ncs_plugin_xiazaiba.c",
+				"/C/Users/11/Desktop/weibo.php"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 90.0,
+				"where_history":
+				[
+					"E:\\NCS_MIX",
+					"E:\\NCS_CHANGCHUN",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"+r",
+					"db",
+					"host",
+					"passwd",
+					"get_db_info",
+					"get_task_time",
+					"make_cron_file",
+					"get_task_time",
+					"re",
+					"connect",
+					"setTimesAndLibrary",
+					"ncs_plugins_bak_file",
+					"clean_disk_id_and_clean_size_dict",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"NCS",
+					"ncs",
+					"NCS",
+					"ncs",
+					"NCS",
+					"ncs",
+					"NCS_WARN",
+					"NCS",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"NCS",
+					"ncs",
+					"NCS",
+					"ncs",
+					"NCS",
+					"ncs",
+					"NCS",
+					"ncs",
+					"NCS",
+					"Ncs",
+					"ncs",
+					"NCS",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"#",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"#",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"ncs",
+					"Ncs",
+					"endif",
+					"ncs",
+					"ncs_down_record",
+					"ncs",
+					"Ncs",
+					"50M",
+					"30M",
+					"10M"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 118.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,1080,100,40,1337",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ncs_plugins_update.py",
+						"python\\ncs_plugins_update.py"
+					],
+					[
+						"fullupda",
+						"factory\\update\\fullupdate.sh"
+					],
+					[
+						"pre",
+						"scripts\\preupdate.sh"
+					],
+					[
+						"inidisk",
+						"init_disk.py"
+					],
+					[
+						"url",
+						"urldecode.cpp"
+					],
+					[
+						"get",
+						"getHtmlByWget.cpp"
+					],
+					[
+						"ua_rule",
+						"plugins\\ua_rule.xml"
+					],
+					[
+						"respondngnix.php",
+						"web\\application\\views\\respondngnix.php"
+					],
+					[
+						".xml",
+						"plugins\\plugins.xml"
+					],
+					[
+						"my.cn",
+						"scripts\\mysql\\my.cnf"
+					],
+					[
+						"librelease.sh",
+						"factory\\release\\librelease.sh"
+					],
+					[
+						"init_waf",
+						"scripts\\init_waf_hw.sql"
+					],
+					[
+						"readme",
+						"factory\\release\\README"
+					],
+					[
+						"read",
+						"factory\\README"
+					],
+					[
+						"netconfig.sh",
+						"factory\\preinstall\\netconfig.sh"
+					],
+					[
+						"mysqllib",
+						"lib\\mysqllib\\mysqllib.cpp"
+					],
+					[
+						"preinstall",
+						"factory\\preinstall\\preinstall.sh"
+					],
+					[
+						"filter.c",
+						"ncsfrt\\NcsFrontSrv\\Filter\\filter.c"
+					],
+					[
+						"http_get",
+						"ncsfrt\\NcsFrontSrv\\HttpGetParse\\http_get_parse.c"
+					],
+					[
+						"115",
+						"plugins\\ncs_plugin_115disk.c"
+					],
+					[
+						"youku",
+						"plugins\\ncs_plugin_youku.c"
+					],
+					[
+						"pluginxml",
+						"plugins\\plugins.xml"
+					],
+					[
+						"tudou",
+						"plugins\\ncs_plugin_tudou.c"
+					],
+					[
+						"sohu",
+						"plugins\\ncs_plugin_sohu.c"
+					],
+					[
+						"par",
+						"scripts/parted.sh"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"E:\\NCS_TEST\\NCS_TEST.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"get_json",
+						"get_json_write_data"
+					],
+					[
+						"",
+						"# Usage"
+					]
+				],
+				"width": 912.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 269.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 32,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/E/NCS_MIX/NCS_MIX.sublime-workspace",
+			"/E/NCS_TEST/NCS_TEST.sublime-workspace",
+			"/E/资料&文档/Linux_Projects/NCS/Sublime_NCS.sublime-workspace"
+		]
+	}
+}

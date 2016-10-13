@@ -1,0 +1,41 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"Clickable URLs",
+		"ColorPicker",
+		"Colorsublime",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"DocBlockr_Python",
+		"Emmet",
+		"FindKeyConflicts",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"IMESupport",
+		"Markdown Extended",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"MarkdownTOC",
+		"Monokai Extended",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"Package Syncing",
+		"PackageResourceViewer",
+		"SideBarEnhancements",
+		"SmartMarkdown",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"Sublimerge 3",
+		"SyncedSidebarBg",
+		"Table Editor",
+		"Terminal"
+	]
+}

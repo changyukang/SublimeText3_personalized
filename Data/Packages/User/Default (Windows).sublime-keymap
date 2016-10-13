@@ -1,0 +1,8 @@
+[
+	{ "keys": ["alt+,"], "command": "jump_back" },
+	{ "keys": ["alt+."], "command": "jump_forward" },
+	{ "keys": ["super+shift+o"], "command": "side_bar_folders_quick_switch" },
+	{ "keys": ["ctrl+shift+a"], "command": "alignment" },
+	{ "keys": ["f7"], "command": "goto_symbol_in_project" },
+	{ "keys": ["super+f7"], "command": "build" },
+]
